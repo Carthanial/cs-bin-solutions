@@ -10,7 +10,7 @@ function testMe() {
 }
 // After thinking it through, uncomment the following line to check your guess!
 // testMe(); // what order should these log out? Howdy or Partnah first?
-// 'Partnah' will log out first.
+// 'Partnah' will log out fir
 
 /* CHALLENGE 2 */
 
